@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 
+# IDE settings
+/.vscode
+
 # testing
 /coverage
 
