@@ -36,7 +36,7 @@ class App extends Component {
             <img src="img/angular_logo.svg" height="96" alt="Angular" onClick={this.handleVoteAngular}></img>
           </div>
           <div className="col-md-4">
-            <img src="img/vuejs_logo.png" height="96" alt="Vuejs" onClick={this.handleVoteVuejs}></img>
+            <img src="img/Vuejs_logo.png" height="96" alt="Vuejs" onClick={this.handleVoteVuejs}></img>
           </div>
         </div>
       </div>
